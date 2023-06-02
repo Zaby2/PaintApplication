@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/arrow.png</file>
+        <file>resources/blur.png</file>
+        <file>resources/brush.png</file>
+        <file>resources/brush1.png</file>
+        <file>resources/dashDotDot.png</file>
+        <file>resources/dashed.png</file>
+        <file>resources/dotted.png</file>
+        <file>resources/ellipse.png</file>
+        <file>resources/eraser.png</file>
+        <file>resources/file.png</file>
+        <file>resources/hexagon.png</file>
+        <file>resources/line.png</file>
+        <file>resources/paint.png</file>
+        <file>resources/rect.png</file>
+        <file>resources/redo.png</file>
+        <file>resources/solid.png</file>
+        <file>resources/text.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
